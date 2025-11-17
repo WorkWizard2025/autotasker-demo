@@ -1,7 +1,0 @@
-date,shop,amount,__source_file,year,month
-2024-01-01,Tokyo,10000,sales_2025_01.csv,2024,1
-2024-01-02,Osaka,8000,sales_2025_01.csv,2024,1
-2024-01-03,Nagoya,12000,sales_2025_01.csv,2024,1
-2024-02-01,Tokyo,9000,sales_2025_02.csv,2024,2
-2024-02-02,Osaka,7000,sales_2025_02.csv,2024,2
-2024-02-03,Nagoya,11000,sales_2025_02.csv,2024,2
